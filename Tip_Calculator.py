@@ -1,0 +1,1 @@
+print("Welcom to the tip calculator.")
